@@ -15,8 +15,6 @@ print_r($_FILES['archivo']['name']);
 echo '<br>';
 print_r(move_uploaded_file($_FILES['archivo']['name'], $uploadFile));
 
-// CHANCHITO FELIZ 
-
-// CHANCHITOS FELICES!!!!
+// ESTAMOS PROBANDO LOS COMMITS :) :D
 ?>
 
